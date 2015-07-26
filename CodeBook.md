@@ -20,6 +20,8 @@ Activity performed by the subject. Consists of the following 6 activities:
 
 ## Extracted Measurement Fields
 
+A total of 66 Fields as follows:
+
 - tBodyAcc-mean()-X
 - tBodyAcc-mean()-Y
 - tBodyAcc-mean()-Z
