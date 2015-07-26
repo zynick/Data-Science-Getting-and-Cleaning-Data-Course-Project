@@ -3,13 +3,12 @@
 This repo was created due to my journey of learning Data Science in John Hopkin's Online Data Science Course
 https://www.coursera.org/specializations/jhudatascience/1
 
-## Data source
+## Data Source
 
-Data source is available here:
-https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+Data source is available [here](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip).
 
 
-## run_analysis.R file
+## run_analysis.R
 
 The script consists of one function `runAnalysis()` that does all the requirement as requested in this Project.
 
